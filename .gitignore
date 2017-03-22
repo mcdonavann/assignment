@@ -1,0 +1,8 @@
+.project
+.classpath
+.springBeans
+_classpath.xml
+_project.xml
+_springBeans.xml
+.svn
+.settings
